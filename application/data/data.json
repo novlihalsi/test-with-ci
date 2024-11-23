@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "position": "Frontend Developer",
+        "office": "Jakarta"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "position": "Backend Developer",
+        "office": "Surabaya"
+    },
+    {
+        "id": 3,
+        "name": "Alice Brown",
+        "position": "UI/UX Designer",
+        "office": "Bandung"
+    },
+    {
+        "id": 4,
+        "name": "Michael Johnson",
+        "position": "Full Stack Developer",
+        "office": "Yogyakarta"
+    },
+    {
+        "id": 5,
+        "name": "Emily Davis",
+        "position": "Project Manager",
+        "office": "Bali"
+    },
+    {
+        "id": 6,
+        "name": "Robert Wilson",
+        "position": "QA Engineer",
+        "office": "Jakarta"
+    },
+    {
+        "id": 7,
+        "name": "Sophia Martinez",
+        "position": "DevOps Engineer",
+        "office": "Surabaya"
+    },
+    {
+        "id": 8,
+        "name": "William Taylor",
+        "position": "Data Scientist",
+        "office": "Bandung"
+    },
+    {
+        "id": 9,
+        "name": "Olivia Anderson",
+        "position": "Business Analyst",
+        "office": "Yogyakarta"
+    },
+    {
+        "id": 10,
+        "name": "James Thomas",
+        "position": "System Administrator",
+        "office": "Bali"
+    }
+]
